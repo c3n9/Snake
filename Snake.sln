@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snake", "Snake\Snake.csproj", "{121AAE12-6799-4467-B717-7B64CE725A7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{121AAE12-6799-4467-B717-7B64CE725A7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{121AAE12-6799-4467-B717-7B64CE725A7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{121AAE12-6799-4467-B717-7B64CE725A7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{121AAE12-6799-4467-B717-7B64CE725A7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79E78A93-1B68-47B9-BC5B-4A2E0321C627}
+	EndGlobalSection
+EndGlobal
