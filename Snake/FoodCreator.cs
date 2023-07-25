@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Snake
 {
-    public class FoodCreator : Figure
+    public class FoodCreator
     {
         int mapWidth;
         int mapHeight;
