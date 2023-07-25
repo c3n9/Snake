@@ -29,6 +29,7 @@ namespace Snake
             Point head = GetNextPosition();
             points.Add(head);
             tail.Clear();
+            Console.ForegroundColor = ConsoleColor.Green;
             head.Draw();
         }
 
@@ -63,11 +64,19 @@ namespace Snake
             else
                 return false;
         }
-
+        internal bool TailHitFood(Point food)
+        {
+            foreach(var p in points)
+            {
+                if(food.y == p.y && food.x == p.x)
+                    return true;
+            }
+            return false;
+        }
         internal bool IsHitTail()
         {
             var head = points.Last();
-            for(int i =0; i < points.Count - 2; i++)
+            for (int i = 0; i < points.Count - 2; i++)
             {
                 if (head.IsHit(points[i]))
                     return true;

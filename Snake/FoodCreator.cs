@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Snake
 {
-    public class FoodCreator
+    public class FoodCreator : Figure
     {
         int mapWidth;
         int mapHeight;
@@ -23,6 +23,7 @@ namespace Snake
         {
             int x = rnd.Next(2, mapWidth - 2);
             int y = rnd.Next(2, mapHeight - 2);
+            Console.ForegroundColor = ConsoleColor.Red;
             return new Point(x, y, sym);
         }
     }
