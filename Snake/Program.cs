@@ -49,7 +49,6 @@ namespace Snake
                 Thread.Sleep(200);
                 snake.Move();
             }
-
         }
     }
 }
