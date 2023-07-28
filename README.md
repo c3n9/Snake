@@ -1,4 +1,5 @@
 # Snake
+![2023-07-28-14-09-08](https://github.com/c3n9/Snake/assets/108518693/84f6364a-65eb-4514-9cf7-447c8c28a3fb)
 ## Start game
 ![image](https://github.com/c3n9/Snake/assets/108518693/6639c232-9cc4-42e1-94f9-b4f68c79977d)
 ## Snake eats
