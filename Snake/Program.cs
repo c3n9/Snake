@@ -9,10 +9,9 @@ namespace Snake
 {
     internal class Program
     {
-        static int gameStat;
+        static int gameStat = 0;
         static void Main(string[] args)
         {
-            gameStat = 0;
             Console.SetWindowSize(50, 24);
             Console.SetBufferSize(50, 24);
             Console.ForegroundColor = ConsoleColor.Gray;
