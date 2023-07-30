@@ -1,5 +1,4 @@
 # Snake
-
 ![2023-07-28-14-09-08 (1)](https://github.com/c3n9/Snake/assets/108518693/f27f827e-17b5-4d1e-a90c-e505a89c6823)
 
 ## Start game
