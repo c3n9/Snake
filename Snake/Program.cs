@@ -10,6 +10,7 @@ namespace Snake
     internal class Program
     {
         static int gameStat = 0;
+        public static int speed = 0;
         static void Main(string[] args)
         {
             Console.SetWindowSize(50, 24);
@@ -53,7 +54,7 @@ namespace Snake
                     ConsoleKeyInfo key = Console.ReadKey();
                     snake.HandledKey(key.Key);
                 }
-                Thread.Sleep(100);
+                Thread.Sleep(speed);
             }
             WriteGameOver();
             Console.ReadLine();

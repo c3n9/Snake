@@ -6,3 +6,11 @@ D:\Projects\Snake\Snake\obj\Debug\Snake.csproj.SuggestedBindingRedirects.cache
 D:\Projects\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
 D:\Projects\Snake\Snake\obj\Debug\Snake.exe
 D:\Projects\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\quart\source\repos\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\quart\source\repos\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\quart\source\repos\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\quart\source\repos\Snake\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+C:\Users\quart\source\repos\Snake\Snake\obj\Debug\Snake.csproj.SuggestedBindingRedirects.cache
+C:\Users\quart\source\repos\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\quart\source\repos\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\quart\source\repos\Snake\Snake\obj\Debug\Snake.pdb
